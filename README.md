@@ -1,6 +1,4 @@
-<p align="center">
-      <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="726">
-</p>
+<h1>Personal blog API. Django REST Framework</h1>
 
 <p align="center">
    <img src="" alt="Unity Version">
