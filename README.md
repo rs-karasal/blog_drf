@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="Project Logo Url" width="726">
+      <img src="https://www.django-rest-framework.org/img/logo.png" width="726">
 </p>
 
 <p align="center">
