@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://www.django-rest-framework.org/img/logo.png" width="726">
+      <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="726">
 </p>
 
 <p align="center">
