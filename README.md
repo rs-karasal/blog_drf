@@ -7,19 +7,4 @@
 
 ## About
 
-About Text Here
-
-## Documentation
-
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
-
-
-## Developers
-
-- [Delevoper Name](GitHub Profile Link)
-
-## License
+Пет-проект: backend персонального блога на фреймворке Django REST Framework. В проекте использованы сторонние библиотеки для регистрации (django-allauth) и аутентификации пользователей (dj-rest-auth) через токены. Также создана документация (Swagger, ReDoc).
